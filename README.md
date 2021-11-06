@@ -22,7 +22,7 @@
 ### Berikut hasil program yang saya buat
 ![gambar3](ss/ss3.PNG)
 ### Latihan 1 selesai
-===========================================================================================================================================================
+==================================================================================================================================================
 # Latihan 2
 ## Membuat Program Untuk Menampilkan Bilangan Terbesar dari n Buah Data yang Diinputkan
 ### Flowchart program
